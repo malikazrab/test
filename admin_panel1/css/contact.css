@@ -1,0 +1,27 @@
+button:hover {
+    background: #0056b3;
+}
+.form-control::placeholder {
+    color: #aaa;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border: 1px solid #0d6efd;
+}
+.bg-secondary {
+    background: #191c24 !important;
+}
+
+.form-control {
+    border-radius: 6px;
+}
+
+textarea {
+    resize: none;
+}
+.container-fluid {
+    padding-left: 30px;
+    align-items: center;
+    margin-bottom: 20px;
+}
